@@ -12,3 +12,7 @@ gujarat
 maharashtra
 mp
 up
+ram
+sita
+ganesh
+rajesh
