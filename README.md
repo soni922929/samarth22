@@ -8,3 +8,7 @@ mumbai
 pune
 solapur
 nashik
+gujarat
+maharashtra
+mp
+up
